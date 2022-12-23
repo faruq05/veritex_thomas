@@ -1,0 +1,364 @@
+@media(max-width:1199px){
+
+    .navbar-brand img {
+        width: 50%;
+    }
+    
+    .overview {
+        padding: 100px 0px 0px 0px;
+    }
+
+    .faq {
+        padding-top: 80px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+} 
+@media(max-width:991px) {
+    .navbar-brand {
+        width: 25%;
+    }
+
+    header .container-fluid {
+        padding: 5px 10%;
+    }
+
+    .navbar-brand img {
+        width: 70%;
+    }
+
+    .hero_contents {
+        padding-top: 175px;
+    }
+
+    .hero_mac img {
+        width: 90%;
+    }
+
+    .features {
+        padding: 60px 0px;
+    }
+
+    .feature_details {
+        text-align: center;
+        padding: 10px;
+    }
+
+    .overview {
+        padding: 30px 0px;
+    }
+
+    .overview_grid {
+        padding-bottom: 30px;
+    }
+
+    .pricing {
+        background-color: #f6fbff;
+        padding: 60px 0px;
+    }
+
+    .price_details {
+        padding: 20px;
+    }
+
+    .price_details h2 {
+        font-size: 25px;
+    }
+
+    .price_details h3 {
+        font-size: 45px;
+    }
+
+    .faq {
+        padding-top: 50px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .faq_content {
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+    .testimonials {
+        padding: 60px 0px 100px 0px;
+    }
+
+    .form_map {
+        padding: 60px 0px;
+    }
+
+    .form_content {
+        margin-bottom: 20px;
+    }
+
+    .footer_content ul {
+        width: 100%;
+    }
+
+    .social ul {
+        width: 100%;
+    }
+
+    .cc ul {
+        width: 100%;
+    }
+
+    .tes_shadow {
+        margin-left: 5px;
+        height: 280px;
+        padding: 20px;
+    }
+
+    .owl-carousel .owl-item img {
+        width: 30%;
+    }
+
+    .form_content form .top {
+        display: block;
+    }
+
+    .form_content form .middle {
+        display: block;
+    }
+
+    .contacts .mail {
+        display: block;
+        padding-bottom: 0px;
+    }
+
+    .contacts .mail li {
+        padding-bottom: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .navbar-brand {
+        width: 25%;
+    }
+
+    header .container-fluid {
+        padding: 5px 10%;
+    }
+
+    .navbar-brand img {
+        width: 70%;
+    }
+
+    .hero_contents {
+        padding-top: 175px;
+    }
+
+    .hero_mac img {
+        width: 100%;
+    }
+
+    .features {
+        padding: 60px 0px;
+    }
+
+    .overview {
+        padding: 30px 0px;
+    }
+
+    .overview_grid {
+        padding-bottom: 30px;
+    }
+
+    .pricing {
+        background-color: #f6fbff;
+        padding: 60px 0px;
+    }
+
+    .price_details {
+        margin-bottom: 20px;
+    }
+
+    .faq {
+        padding-top: 30px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .faq_content {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .testimonials {
+        padding: 60px 0px 100px 0px;
+    }
+
+    .form_map {
+        padding: 60px 0px;
+    }
+
+    .form_content {
+        margin-bottom: 20px;
+    }
+
+    .footer_content ul {
+        width: 100%;
+    }
+
+    .social ul {
+        width: 100%;
+    }
+
+    .cc ul {
+        width: 100%;
+    }
+}
+
+@media(max-width:425px) {
+
+    .hero_contents {
+        padding-top: 170px;
+    }
+
+    .contacts .mail {
+        display: block;
+    }
+
+    .footer_content ul {
+        display: block;
+    }
+
+    .navbar-brand {
+        width: 50%;
+    }
+
+    header .container-fluid {
+        padding: 5px 10px;
+    }
+
+    .navbar-brand img {
+        width: 60%;
+    }
+
+    .hero_mac img {
+        width: 100%;
+    }
+
+    .features {
+        padding: 50px 0px 0px 0px;
+    }
+
+    .features_contents {
+        padding-bottom: 30px;
+    }
+
+    .overview {
+        padding: 50px 0px;
+    }
+
+    .over_content {
+        text-align: center;
+    }
+
+    .overview_grid {
+        padding-bottom: 10px;
+    }
+
+    .pricing {
+        padding: 50px 5px;
+    }
+
+    .pricing_contents {
+        text-align: center;
+    }
+
+    .price_details {
+        margin-bottom: 20px;
+    }
+
+    .faq {
+        padding-top: 50px;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .faq_content p {
+        padding-bottom: 20px;
+    }
+
+    .testimonials_content {
+        padding-bottom: 30px;
+    }
+
+    .testimonials {
+        padding: 50px 0px 80px 0px;
+    }
+
+    .tes_shadow {
+        height: 326px;
+        margin-left: 5px;
+        padding: 20px;
+    }
+
+    .owl-carousel .owl-item img {
+        width: 42%;
+        margin-left: 5px;
+        margin: auto;
+    }
+
+    .owl-dots {
+        bottom: -10%;
+    }
+
+    .form_map {
+        padding: 50px 5px;
+    }
+
+    .form_content h2 {
+        font-size: 32px;
+    }
+
+    .form_content form .top {
+        display: block;
+    }
+
+    .form_content form .middle {
+        display: block;
+    }
+
+    .form_content {
+        margin-bottom: 15px;
+    }
+
+    .contacts .mail {
+        display: block;
+        padding-bottom: 0px;
+    }
+
+    .contacts .mail li {
+        padding-bottom: 12px;
+    }
+
+    .footer {
+        padding: 50px;
+        text-align: center;
+    }
+
+    .footer_content ul li {
+        margin-bottom: 10px;
+    }
+
+    .social ul {
+        width: 100%;
+    }
+
+    .cc {
+        text-align: center;
+    }
+
+    .cc ul {
+        display: block;
+        width: 100%;
+    }
+
+    .cc ul li {
+        margin-top: 10px;
+    }
+}
